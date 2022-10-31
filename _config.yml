@@ -19,7 +19,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     <i class="fa-brands fa-zhihu"></i>
   </a>
   <br/>
-url: https://wu-kan.cn # 你的域名，例如 https://wu-kan.github.io
+url: https://https://kiwu-Capstone.com # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -596,27 +596,27 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "hidden": true,
                       "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                       "content": {
-                        "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
-                        "skin": ["要换成我的朋友吗？", "让她放个假吧~"],
+                        "link": ["https://github.com/wnthdus"],
+                        "skin": ["다른 애로 바꿀래？", "안녕~"],
                         "hidden": true,
                         "custom": [{
                           "selector": "a",
                           "type": "link",
                         }, {
                           "selector": ".sidebar-toggle",
-                          "text": "打开侧边栏叭~"
+                          "text": "사이드메뉴야"
                         }, {
                           "selector": ".effect-info",
-                          "text": "哇，你发现了什么！"
+                          "text": "와, 너 뭐 찾았어?"
                         }, {
                           "selector": "#sidebar-search-input",
-                          "text": "想搜索什么呢？很多干货哦！"
+                          "text": "뭐 검색할거야?"
                         }, {
                           "selector": "#toc",
-                          "text": "这是目录~"
+                          "text": "여기는 카탈로그입니다~"
                         }, {
                           "selector": ".page-title",
-                          "text": "这是标题~"
+                          "text": "제목이에요~"
                         }]
                       },
                       "model": [
@@ -652,10 +652,10 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               rel="license">
               CC BY 4.0
             </a>
-            （除特别声明或转载文章外）
+            （보이는 여대생）
             <br/>
             <i class="fa-solid fa-coffee fa-fw"></i>
-            <a href="/merger/">如果这篇博客帮助到你，可以请我喝一杯咖啡~</a>
+            
         merger: # 打赏页，需要配置！
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
