@@ -2,7 +2,7 @@
 redirect_from: /_posts/2022/10/20/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/
 title: 캡스톤 갤러리
 tags:
-  - 随笔
+  - capstone
 jekyll-theme-WuK:
   background_music: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=86 src="//music.163.com/outchain/player?type=2&id=27876158&auto=0&height=66"></iframe>'
 ---
