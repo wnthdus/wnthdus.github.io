@@ -45,7 +45,7 @@ Let me introduce my Project ...
 
 -
 - <a href="/2022/10/01/MyCapstoneDiary/">나의 캡스톤 일지</a><br>
-- <a href="/2022/10/20/MyCapstoneGallery/">캡스톤 갤러리</a>
+- <a href="/2022/10/20/CapstoneGallery/">캡스톤 갤러리</a>
 
 <!-- .slide -->
 
