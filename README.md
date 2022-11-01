@@ -16,7 +16,7 @@ Let me introduce my Project ...
   
 <!-- .slide -->
 
-- App QR
+## App QR
   
 
 <!-- .slide vertical=true -->
