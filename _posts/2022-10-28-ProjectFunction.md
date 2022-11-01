@@ -1,5 +1,5 @@
 ---
-redirect_from: /_posts/2022/10/28/%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/
+redirect_from: /_posts/2022/10/28/
 title: 기능설계
 tags:
   - capstone
