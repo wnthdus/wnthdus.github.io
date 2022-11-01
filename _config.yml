@@ -1,25 +1,16 @@
 title: soyeon-project # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  SYSU第5年<br/>
-  水野爱<br/>
-  田宫例四驱车<br/>
+  양자리 4월 13일<br/>
+  22살<br/>
+  상 받고 싶다<br/>
   <a href="mailto:soyun96111@gmail.com">
     <i class="fa-solid fa-envelope"></i>
   </a>
   <a href="https://github.com/wnthdus">
     <i class="fa-brands fa-github"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fa-solid fa-smile"></i>
-  </a>
-  <a href="https://space.bilibili.com/166390020">
-    <i class="fa-brands fa-bilibili"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fa-brands fa-zhihu"></i>
-  </a>
   <br/>
-url: https://soyeonproject.com # 你的域名，例如 https://wu-kan.github.io
+url: https://github.com/wnthdus # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -47,18 +38,14 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+              img: https://s2.loli.net/2022/11/02/o9tUWvbmcFO6T1s.jpg # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
-              - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
+              - title: '<i class="fa-solid fa-home fa-fw"></i> HOME'
                 href: /
-              - title: '<i class="fa-solid fa-comment fa-fw"></i> 留言'
-                href: /comments/
-              - title: '<i class="fa-solid fa-archive fa-fw"></i> 归档'
+              - title: '<i class="fa-solid fa-archive fa-fw"></i> GROUP'
                 href: /archive/
-              - title: '<i class="fa-solid fa-tags fa-fw"></i> 标签'
-                href: /tags/
-              - title: '<i class="fa-solid fa-coffee fa-fw"></i> 打赏'
-                href: /merger/
+
+
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
               full_text_search: false # 可能导致缓慢的搜索和加载
@@ -80,7 +67,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 </style>
                 <input
                   id="sidebar-search-input"
-                  placeholder="搜索博文"
+                  placeholder="검색어입력"
                 />
                 <ol
                   id="sidebar-search-results-container"
@@ -243,29 +230,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   ></script>
                 </div>
               - | # 觉得我的主题好用的话，让更多的人知道它吧！
-                <div>
-                  <i class="fa-solid fa-thumbs-up fa-fw"></i>
-                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
-                    jekyll-theme-WuK
-                  </a>
-                </div>
               - | # Copyright声明
                 <div>
                   <i class="fa-solid fa-copyright fa-fw"></i>
-                  2017-2022 WuK
-                </div>
-              - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
-                <div>
-                  <i class="fa-solid fa-info-circle fa-fw"></i>
-                  <a href="http://beian.miit.gov.cn">
-                    粤ICP备 20024947号
-                  </a>
+                  2022 soyeon
                 </div>
               - | # 公安网备信息
                 <div>
-                  <img src="https://cdn.jsdelivr.net/gh/wu-kan/blog-image/2021/12/07/0.png" class="fa-fw"></img>
-                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
-                    皖公网安备 34070202000407号
+                  <img src="https://s2.loli.net/2022/11/02/zSLX6Qdp7jtkWqm.png" class="fa-fw"></img>
+                  <a href="https://www.kiwu.ac.kr/">
+                    경인여자대학교 202008012
                   </a>
                 </div>
             wordcount: # 全站字数统计
