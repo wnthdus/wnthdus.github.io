@@ -100,4 +100,4 @@ store로 계획을 변경했던 당시 초기 index화면이다
 
 
 
-<a href="/2022/10/29/History.md/">[History 보러가기]</a>
+<a href="/2022/10/29/History/">[History 보러가기]</a>
