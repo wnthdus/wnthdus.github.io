@@ -36,16 +36,15 @@ Let me introduce my Project ...
 
 <!-- .slide vertical=true -->
 
- - **<a href="/2022/10/23/LiveByMemories/">"사람은 추억으로 살아간다"</a>**
-
+ - **["사람은 추억으로 살아간다"](https://wnthdus.github.io/2022/10/23/LiveByMemories/)**
 
 <!-- .slide vertical=true -->
 
 ## More about ...
 
--
-- <a href="/2022/10/01/MyCapstoneDiary/">나의 캡스톤 일지</a><br>
-- <a href="/2022/10/20/CapstoneGallery/">캡스톤 갤러리</a>
+- [나의 캡스톤 일지](https://wnthdus.github.io/2022/10/01/MyCapstoneDiary/)
+- [캡스톤 갤러리](https://wnthdus.github.io/2022/10/20/CapstoneGallery/)
+
 
 <!-- .slide -->
 
