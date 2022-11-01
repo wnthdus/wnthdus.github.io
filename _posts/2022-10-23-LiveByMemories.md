@@ -1,5 +1,5 @@
 ---
-redirect_from: /_posts/2022/10/23/%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
+redirect_from: /_posts/2022/10/23/
 title: "사람은 추억으로 살아간다"
 tags: capstone
 ---
@@ -17,4 +17,4 @@ tags: capstone
 
  - 디자인을 라이트하고 심플한 테마로 변경하게 되었다 그래서 탄생하게 되었다. 나처럼 겁이 많은 사람을 위함이다.
 
- - [기능설계](https://wnthdus.github.io/2022/10/28/%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/) 
+ - <a href="/2022/10/28/ProjectFunction/">[기능설계 보러가기]</a>
