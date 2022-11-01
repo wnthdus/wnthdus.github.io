@@ -1,6 +1,6 @@
 # Hi 
 
-Let me introduce myself ...
+Let me introduce my Project ...
 
 <!-- .slide -->
 
@@ -12,9 +12,12 @@ Let me introduce myself ...
   - **https://github.com/wnthdus/wnthdus.github.io**
 - Site
   - **<https://wnthdus.github.io>**
-- App QR
-  - 
+  
+  
+<!-- .slide -->
 
+- App QR
+  
 
 <!-- .slide vertical=true -->
 
