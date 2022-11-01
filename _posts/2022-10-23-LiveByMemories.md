@@ -17,4 +17,4 @@ tags: capstone
 
  - 디자인을 라이트하고 심플한 테마로 변경하게 되었다 그래서 탄생하게 되었다. 나처럼 겁이 많은 사람을 위함이다.
 
- - <a href="/2022/10/28/ProjectFunction/">[기능설계 보러가기]</a>
+  - [기능설계 보러가기](https://wnthdus.github.io/2022/10/28/ProjectFunction/)
