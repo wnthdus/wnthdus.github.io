@@ -34,7 +34,7 @@ Let me introduce my Project ...
 
 <!-- .slide vertical=true -->
 
- - **["사람은 추억으로 살아간다"](https://wnthdus.github.io/2022/10/23/)**
+ - **<a href="/2022/10/23/LiveByMemories/">"사람은 추억으로 살아간다"</a>**
 
 
 <!-- .slide vertical=true -->
@@ -42,8 +42,8 @@ Let me introduce my Project ...
 ## More about ...
 
 -
-- [나의 캡스톤 일지](https://wnthdus.github.io/2022/10/01/mycap)
-- [캡스톤 갤러리](https://wnthdus.github.io/2022/10/20) 
+<a href="/2022/10/01/MyCapstoneDiary/">나의 캡스톤 일지</a>
+<a href="/2022/10/20/MyCapstoneGallery/">캡스톤 갤러리</a>
 
 <!-- .slide -->
 
