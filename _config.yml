@@ -1,7 +1,7 @@
 title: soyeon-project # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   양자리 4월 13일<br/>
-  22살<br/>
+  22살 주소연 "보이는여대생"<br/>
   상 받고 싶다<br/>
   <a href="mailto:soyun96111@gmail.com">
     <i class="fa-solid fa-envelope"></i>
@@ -239,7 +239,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 <div>
                   <img src="https://s2.loli.net/2022/11/02/zSLX6Qdp7jtkWqm.png" class="fa-fw"></img>
                   <a href="https://www.kiwu.ac.kr/">
-                    경인여자대학교 202008012
+                    경인여자대학교 소프트웨어융합 202008012
                   </a>
                 </div>
             wordcount: # 全站字数统计
