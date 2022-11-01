@@ -6,6 +6,8 @@ Let me introduce my Project ...
 
 ## Contact
 
+- Season
+  - **Capstone Design**
 - Address
   - **Gyeongin Women's University, 63 Gyeyangsan-ro, Gyeyang-gu, Incheon**
 - Github
