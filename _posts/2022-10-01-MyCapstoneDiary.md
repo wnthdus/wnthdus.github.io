@@ -72,31 +72,6 @@ tags:
 
 이유는 ... 둘다 없으므로 계정을 만들지 못하였다. --
 
-기능도 너무 많고 무엇보다 핵심인 비속어 필터링을 구현하기 어려울 것 같아 계획을 대거 수정하였다.
-
-
-![ghost1.png](https://s2.loli.net/2022/11/02/PHDRhebXGol5dg3.png)
-
-store로 계획을 변경했던 당시 초기 index화면이다
-이야기를 파는 사이트로 기획하게 되었으나
-
-화면을 다시 엎었다.
-
-
-![store1.png](https://s2.loli.net/2022/11/02/tlfHKkv26LVmbwE.png)
-마찬가지로 index 화면이다.
-
-![store2.png](https://s2.loli.net/2022/11/02/trSsWQwmJo1aniD.png)
-슬라이드된 화면이다.
-
-![store3.png](https://s2.loli.net/2022/11/02/osKNTYSEJMeOjFk.png)
-상품 화면이다.
-
-![store4.png](https://s2.loli.net/2022/11/02/lQGxaLKm1XHEJRM.png)
-상품 상세화면이다.
-
-![signup.png](https://s2.loli.net/2022/11/02/TWxNPsb9QAhIv4k.png)
-회원가입 폼이다.
 
 
 
