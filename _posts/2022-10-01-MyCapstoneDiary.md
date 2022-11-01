@@ -76,4 +76,3 @@ tags:
 
 
 ![[History 보러가기]]<https://wnthdus.github.io/2022/10/29/History/>
-<a href="/2022/10/29/History/">[History 보러가기]</a>
