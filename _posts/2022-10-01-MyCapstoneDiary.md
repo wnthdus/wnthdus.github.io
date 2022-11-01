@@ -2,8 +2,7 @@
 redirect_from: /_posts/2022/10/01/%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/
 title: 나의 캡스톤 일지
 tags:
-  - 高性能计算
-  - 随笔
+  - capstone
 ---
 
 나에게 캡스톤 디자인은 처절하다..
