@@ -8,8 +8,13 @@ Let me introduce myself ...
 
 - Address
   - **Gyeongin Women's University, 63 Gyeyangsan-ro, Gyeyang-gu, Incheon**
+- Github
+  - **https://github.com/wnthdus/wnthdus.github.io**
 - Site
   - **<https://wnthdus.github.io>**
+- App QR
+  - 
+
 
 <!-- .slide vertical=true -->
 
@@ -29,14 +34,18 @@ Let me introduce myself ...
  - **["사람은 추억으로 살아간다"](https://wnthdus.github.io/2022/10/23/%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)**
 
 
+<!-- .slide vertical=true -->
+
+
 
 <!-- .slide -->
 
 ## Blog
 
+-
 - [나의 캡스톤 일지](https://wnthdus.github.io/2022/10/01/%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/)
 - [캡스톤 갤러리](https://wnthdus.github.io/2022/10/20/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/)
-- ["Ghost Researsh : Blog"](https://wnthdus.github.io/2022/10/28/%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/) 
+- [기능설계](https://wnthdus.github.io/2022/10/28/%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/) 
 
 <!-- .slide -->
 
@@ -44,16 +53,22 @@ Let me introduce myself ...
 
 <!-- .slide vertical=true -->
 
-- **C/C++**, Familiar
-  - **CUDA/HIP/ROCm**, Familiar&Learning
-  - **MPI**, Familiar
-  - **OpenMP**, Familiar
+- **AndroidStudio**, Learning
+- **Java**, Familiar
+- **FireBase**, Learning
+
+<!-- .slide vertical=true -->
+
+- **C/C++**, Learning
+  - **CUDA/HIP/ROCm**, Learning
+  - **MPI**, Learning
+  - **OpenMP**, Learning
 - **Python**, Familiar
 
 <!-- .slide vertical=true -->
 
 - **Markdown**, Familiar
-- **$\LaTeX$**, Familiar
+- **$\LaTeX$**, Learning
 - **Shell**, Familiar&Learning
 - **Git**, Familiar
 - **VSCode**, Familiar
