@@ -42,7 +42,7 @@ Let me introduce my Project ...
 ## More about ...
 
 -
-- [나의 캡스톤 일지](https://wnthdus.github.io/2022/10/01/)
+- [나의 캡스톤 일지](https://wnthdus.github.io/2022/10/01/mycap)
 - [캡스톤 갤러리](https://wnthdus.github.io/2022/10/20/) 
 
 <!-- .slide -->
