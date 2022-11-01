@@ -163,16 +163,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   <i class="fa-solid fa-cog fa-spin fa-fw"></i>
                   <span id="run_time_day">
                     <i class="fa-solid fa-spinner fa-pulse"></i>
-                  </span>天
+                  </span>일
                   <span id="run_time_hour">
                     <i class="fa-solid fa-spinner fa-pulse"></i>
-                  </span>时
+                  </span>시
                   <span id="run_time_minute">
                     <i class="fa-solid fa-spinner fa-pulse"></i>
-                  </span>分
+                  </span>분
                   <span id="run_time_second">
                     <i class="fa-solid fa-spinner fa-pulse"></i>
-                  </span>秒
+                  </span>초
                   <script>
                     setInterval(function (d,h,m,s,b) {
                       function setzero(i) {
@@ -201,7 +201,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     document.getElementById("run_time_hour"),
                     document.getElementById("run_time_minute"),
                     document.getElementById("run_time_second"),
-                    "10/04/2017 11:03:56")// 这是我第一篇CSDN博客的时间
+                    "09/01/2022 00:00:00")// 这是我第一篇CSDN博客的时间
                   </script>
                 </div>
               - | # 不蒜子页面统计，看不懂可不改
@@ -239,7 +239,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 <div>
                   <img src="https://s2.loli.net/2022/11/02/zSLX6Qdp7jtkWqm.png" class="fa-fw"></img>
                   <a href="https://www.kiwu.ac.kr/">
-                    경인여자대학교 소프트웨어융합 202008012
+                    경인여자대학교<br>소프트웨어융합<br>202008012
                   </a>
                 </div>
             wordcount: # 全站字数统计
