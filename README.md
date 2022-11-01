@@ -9,7 +9,7 @@ Let me introduce my Project ...
 - Address
   - **Gyeongin Women's University, 63 Gyeyangsan-ro, Gyeyang-gu, Incheon**
 - Github
-  - **https://github.com/wnthdus/wnthdus.github.io**
+  - **https://github.com/wnthdus**
 - Site
   - **<https://wnthdus.github.io>**
   
