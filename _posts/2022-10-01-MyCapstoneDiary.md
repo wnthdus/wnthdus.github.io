@@ -100,4 +100,4 @@ store로 계획을 변경했던 당시 초기 index화면이다
 
 
 
-- [캡스톤 history 보기](https://wnthdus.github.io/2022/10/29/%E9%87%8F%E5%AD%90%E7%BA%BF%E8%B7%AF%E6%A8%A1%E6%8B%9F%E5%99%A8QuEST%E5%9C%A8%E5%A4%9AGPU%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%9A%84%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
+<a href="/2022/10/29/History.md/">[History 보러가기]</a>
