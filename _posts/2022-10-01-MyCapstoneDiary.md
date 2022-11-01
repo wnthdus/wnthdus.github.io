@@ -1,5 +1,5 @@
 ---
-redirect_from: /_posts/2022/10/01/
+redirect_from: /_posts/2022/10/01/mycap
 title: 나의 캡스톤 일지
 tags:
   - capstone
