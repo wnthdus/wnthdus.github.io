@@ -19,6 +19,7 @@ Let me introduce my Project ...
 <!-- .slide -->
 
 ## App QR
+![QRCodeImg.jpg](https://s2.loli.net/2022/11/04/P8OBU1JDTduRtA5.jpg)
   
 
 <!-- .slide vertical=true -->
